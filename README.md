@@ -64,11 +64,7 @@ I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](htt
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
   
-
 <br>
 <div id="header" align="center">
-  **[ I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!](#jump_20)** 
-  
-  </br>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
