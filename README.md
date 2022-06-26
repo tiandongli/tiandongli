@@ -39,9 +39,6 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 
 <br>
 
-
-
-
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
@@ -49,16 +46,11 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 <a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
-
 
 ### 📫 How to reach me:
   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="tiandonglee@163.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ### Latest Publications
 <!-- BLOG-POST-LIST:START -->
@@ -73,15 +65,18 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
   
 
 ### Let's Connect :handshake:
-- 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
+<!-- BLOG-POST-LIST:START -->
+  - 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
 - 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
 - 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
 - **[欢迎关注我：一起学习，一起进步！](#jump_20)**
-<p align="lift">
-  <a href="tiandonglee@mgmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
-</p>
-
+<!-- BLOG-POST-LIST:END -->
+  
+<br>
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
   
   
