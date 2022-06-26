@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
 
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<h1>Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
@@ -36,18 +36,16 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 <br>
 
-## Some of my stats :bar_chart:
+## Let's Connect :handshake:
+语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
+
+关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
+
+**[欢迎关注我：一起学习，一起进步！](#jump_20)**
 |--|--|  
 
-### Let's Connect :handshake:
-- 语雀:左手柳叶刀右手炭火烧</a>
-
-> 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
-
-
-####
 
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
@@ -64,11 +62,4 @@ These are some of the major technologies that I use or have worked on in the pas
 </div>
 
 
-> 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
-
-微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
-
-关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
-
-**[欢迎关注我：一起学习，一起进步！](#jump_20)**
 
