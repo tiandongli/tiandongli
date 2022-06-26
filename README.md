@@ -39,11 +39,6 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 
 <br>
 
-## Let's Connect :handshake:
-- 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
-- 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
-- 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
-- **[欢迎关注我：一起学习，一起进步！](#jump_20)**
 
 
 
@@ -75,4 +70,18 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 
 - [Identification and prognostic analysis of biomarkers to predict the progression of pancreatic cancer patients](https://molmed.biomedcentral.com/articles/10.1186/s10020-022-00467-8)
 
+  
 
+### Let's Connect :handshake:
+- 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
+- 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
+- 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
+- **[欢迎关注我：一起学习，一起进步！](#jump_20)**
+<p align="lift">
+  <a href="tiandonglee@mgmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+</p>
+
+
+  
+  
