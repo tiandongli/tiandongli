@@ -39,12 +39,6 @@ I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](htt
 
 <br>
 
-
-### 📫 How to reach me:
-  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="tiandonglee@163.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-
 ### Latest Publications
 <!-- BLOG-POST-LIST:START -->
 - [TSPAN1, TMPRSS4, SDR16C5, and CTSE as Novel Panel for Pancreatic Cancer: A Bioinformatics Analysis and Experiments Validation](https://www.frontiersin.org/articles/10.3389/fimmu.2021.649551/full)
@@ -72,8 +66,9 @@ I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](htt
   
 
 <br>
-  
+<!--  
 <div id="header" align="center">
-  I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</br>
+  **[ I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!](#jump_20)** </br>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
