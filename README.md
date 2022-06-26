@@ -1,4 +1,4 @@
-<img src="https://github.com/tiandongli/tiandongli/blob/main/pre." alt="Banner about Arturs Smirnovs">
+<img src="https://github.com/tiandongli/tiandongli/blob/main/pre.png" alt="Banner about Arturs Smirnovs">
 
 <h1>Howdy, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
