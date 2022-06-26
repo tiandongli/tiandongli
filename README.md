@@ -11,6 +11,7 @@ PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS 
 ##### MOTTO
 
 > 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
+> 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
 
 
 ####
