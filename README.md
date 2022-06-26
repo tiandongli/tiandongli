@@ -7,6 +7,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+> 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
+
+微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
+
+关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
+
+**[欢迎关注我：一起学习，一起进步！](#jump_20)**
+
+
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
