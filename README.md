@@ -1,12 +1,9 @@
 <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
 
-<h1> Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> 
-</h1>
+<h1> Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h1>
 
-
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 #### TECH STACK
 
