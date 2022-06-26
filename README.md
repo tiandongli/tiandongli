@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
 
-Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
+<h1> Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h1>
 </h1>
 
 
