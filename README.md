@@ -3,7 +3,7 @@
 <h1>Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Doctoral Student 🎓 pursuing [@Epidemiology and Health Statistics](https://researchguides.uic.edu/epidemiology)**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](https://researchguides.uic.edu/epidemiology)**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ### Languages/Frameworks I'm good at:
 
@@ -74,6 +74,6 @@ I'm an **Doctoral Student 🎓 pursuing [@Epidemiology and Health Statistics](ht
 <br>
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</br>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
