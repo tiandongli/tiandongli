@@ -65,5 +65,14 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+## Latest Publications
+  
+- [TSPAN1, TMPRSS4, SDR16C5, and CTSE as Novel Panel for Pancreatic Cancer: A Bioinformatics Analysis and Experiments Validation](https://www.frontiersin.org/articles/10.3389/fimmu.2021.649551/full)
+
+- [Coffee consumption and risk of pancreatic cancer: a systematic review and dose-response meta-analysis](https://www.tandfonline.com/doi/abs/10.1080/09637486.2018.1551337?journalCode=iijf20)
+
+- [A novel immunodiagnosis panel for hepatocellular carcinoma based on bioinformatics and the autoantibody‐antigen system](https://onlinelibrary.wiley.com/doi/10.1111/cas.15217)
+
+- [Identification and prognostic analysis of biomarkers to predict the progression of pancreatic cancer patients](https://molmed.biomedcentral.com/articles/10.1186/s10020-022-00467-8)
 
 
