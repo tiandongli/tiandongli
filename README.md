@@ -3,7 +3,7 @@
 <h1>Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Doctoral Student 🎓 pursuing [@Epidemiology and Health Statistics](https://researchguides.uic.edu/epidemiology)**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ### Languages/Frameworks I'm good at:
 
@@ -55,18 +55,14 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 ### Latest Publications
 <!-- BLOG-POST-LIST:START -->
 - [TSPAN1, TMPRSS4, SDR16C5, and CTSE as Novel Panel for Pancreatic Cancer: A Bioinformatics Analysis and Experiments Validation](https://www.frontiersin.org/articles/10.3389/fimmu.2021.649551/full)
-
 - [Coffee consumption and risk of pancreatic cancer: a systematic review and dose-response meta-analysis](https://www.tandfonline.com/doi/abs/10.1080/09637486.2018.1551337?journalCode=iijf20)
-
 - [A novel immunodiagnosis panel for hepatocellular carcinoma based on bioinformatics and the autoantibody‐antigen system](https://onlinelibrary.wiley.com/doi/10.1111/cas.15217)
-
 - [Identification and prognostic analysis of biomarkers to predict the progression of pancreatic cancer patients](https://molmed.biomedcentral.com/articles/10.1186/s10020-022-00467-8)
 <!-- BLOG-POST-LIST:END -->
   
-
 ### Let's Connect :handshake:
 <!-- BLOG-POST-LIST:START -->
-  - 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
+- 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
 - 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
 - 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
 - **[欢迎关注我：一起学习，一起进步！](#jump_20)**
@@ -77,6 +73,3 @@ I'm an **Doctoral Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing C
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-  
-  
