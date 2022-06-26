@@ -12,7 +12,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="R" alt="R" width="40px" src="[https://raw.githubusercontent.com/github/explore/master/topics/python/python.png](https://www.r-project.org/)"/>
-|--|--|--|
+|--|--|--|--|
 
 **Libraries and Frameworks**
 
