@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
 
+Howdy!, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
+</h1>
+
+
 I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
 I have been working in various fields, starting from crypto currency, finances and ending with human resources.
 I have always been hard working and goal's focused with proven results.
