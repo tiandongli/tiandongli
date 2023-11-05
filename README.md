@@ -1,9 +1,9 @@
 <img src="https://github.com/tiandongli/tiandongli/blob/main/pre.png" alt="Banner about Arturs Smirnovs">
 
-<h1>Howdy, I am <a href="https://github.com/Defcon27">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<h1>Howdy, I am <a href="https://github.com/tiandongli">Tiandong Li</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](https://researchguides.uic.edu/epidemiology)**. I'm a **Bio-tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](https://researchguides.uic.edu/epidemiology)**. I'm a **Bio-tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love data analysis and biostatistics that serve a great deal of purpose. <br/><br/>
 
 ### Languages/Frameworks I'm good at:
 
