@@ -41,16 +41,19 @@ I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](htt
 
 ### Latest Publications
 <!-- BLOG-POST-LIST:START -->
+- [hccTAAb Atlas: An Integrated Knowledge Database for Tumor-Associated Autoantibodies in Hepatocellular Carcinoma](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.3c00579)
+- [A novel autoantibody signatures for enhanced clinical diagnosis of pancreatic ductal adenocarcinoma](https://link.springer.com/article/10.1186/s12935-023-03107-1)
+- [Identification of potential resistance mechanisms and therapeutic targets for the relapse of BCMA CAR-T therapy in relapsed/refractory multiple myeloma through single-cell sequencing](https://link.springer.com/article/10.1186/s40164-023-00402-5)
+- [Identification and prognostic analysis of biomarkers to predict the progression of pancreatic cancer patients](https://link.springer.com/article/10.1186/s10020-022-00467-8)
 - [TSPAN1, TMPRSS4, SDR16C5, and CTSE as Novel Panel for Pancreatic Cancer: A Bioinformatics Analysis and Experiments Validation](https://www.frontiersin.org/articles/10.3389/fimmu.2021.649551/full)
 - [Coffee consumption and risk of pancreatic cancer: a systematic review and dose-response meta-analysis](https://www.tandfonline.com/doi/abs/10.1080/09637486.2018.1551337?journalCode=iijf20)
 - [A novel immunodiagnosis panel for hepatocellular carcinoma based on bioinformatics and the autoantibody‐antigen system](https://onlinelibrary.wiley.com/doi/10.1111/cas.15217)
-- [Identification and prognostic analysis of biomarkers to predict the progression of pancreatic cancer patients](https://molmed.biomedcentral.com/articles/10.1186/s10020-022-00467-8)
 <!-- BLOG-POST-LIST:END -->
   
 ### Let's Connect :handshake:
 <!-- BLOG-POST-LIST:START -->
 - 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
-- 微信公众号：**[研平方](#jump_10)**  |  简书：**[研平方](#jump_10)** 
+- 微信公众号：**[BioDadaX](#jump_10)**  |  简书：**[BioDadaX](#jump_10)** 
 - 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
 - **[欢迎关注我：一起学习，一起进步！](#jump_20)**
 <!-- BLOG-POST-LIST:END -->
