@@ -52,7 +52,7 @@ I'm an **Doctoral Student 🎓 pursuing [Epidemiology and Health Statistics](htt
   
 ### Let's Connect :handshake:
 <!-- BLOG-POST-LIST:START -->
-- 语雀：**[燊黎](#jump_10)**
+- 语雀：**[左手柳叶刀右手炭火烧](#jump_10)**
 - 微信公众号：**[BioDadaX](#jump_10)**  |  简书：**[BioDadaX](#jump_10)** 
 - 关注可了解更多的科研教程及技巧。如有问题或建议，请留言。
 - **[欢迎关注我：一起学习，一起进步！](#jump_20)**
